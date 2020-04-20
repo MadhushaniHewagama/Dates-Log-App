@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "62683380373",
+    "firebase_url": "https://blogs-c49fa.firebaseio.com",
+    "project_id": "blogs-c49fa",
+    "storage_bucket": "blogs-c49fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62683380373:android:8d561d17d2dd157f",
+        "android_client_info": {
+          "package_name": "com.santosenoque.firebase_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62683380373-a8rcm9lqt3m3t4n24ojs2epncj93ag7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRdK-Vmk8SAtrfMdg3aZPn652Z-vehbb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62683380373-a8rcm9lqt3m3t4n24ojs2epncj93ag7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
